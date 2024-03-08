@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_dotaunt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_dotaunt",
+  "parent":{
+    "name":"states",
+    "path":"folders/Scripts/Player/states.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_player_mach3bump",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_mach3bump",
+  "parent":{
+    "name":"states",
+    "path":"folders/Scripts/Player/states.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

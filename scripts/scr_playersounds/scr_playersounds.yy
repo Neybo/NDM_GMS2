@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_playersounds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_playersounds",
+  "parent":{
+    "name":"states",
+    "path":"folders/Scripts/Player/states.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
