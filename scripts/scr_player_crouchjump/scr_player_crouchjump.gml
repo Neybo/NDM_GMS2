@@ -2,6 +2,7 @@ function scr_player_crouchjump() {
 	//player's crouch state
 	image_speed = 0.35
 	hsp = move * movespeed
+    movespeed = 4
 	if move != 0
 		xscale = move
 		sprite_index = spr_player_crouchfall

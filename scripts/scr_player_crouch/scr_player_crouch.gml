@@ -2,6 +2,7 @@ function scr_player_crouch() {
 	//player's crouch state
 	image_speed = 0.35
 	hsp = move * movespeed
+	movespeed = 4
 	if move != 0
 		xscale = move
 	if move = 0 {
@@ -14,7 +15,7 @@ function scr_player_crouch() {
 		sprite_index = spr_player_crawl
 	}
 	if key_jump {
-		vsp = -11
+		vsp = -8
 		state = states.crouchjump
 	}
 	if !grounded
